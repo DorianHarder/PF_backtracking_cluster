@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "6_walls_a_no_door",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32632" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 10.5, 25.0 ], [ 34.5, 25.0 ], [ 34.5, 25.5 ], [ 10.5, 25.5 ], [ 10.5, 25.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 10.5, 8.0 ], [ 34.5, 8.0 ], [ 34.5, 7.5 ], [ 10.5, 7.5 ], [ 10.5, 8.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 15.7, 21.0 ], [ 28.0, 21.0 ], [ 28.0, 20.0 ], [ 15.7, 20.0 ], [ 15.7, 21.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 15.0, 18.0 ], [ 28.7, 18.0 ], [ 28.7, 17.0 ], [ 15.0, 17.0 ], [ 15.0, 18.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.0, 25.0 ], [ 34.5, 25.0 ], [ 34.5, 8.0 ], [ 34.0, 8.0 ], [ 34.0, 25.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 11.0, 25.0 ], [ 11.0, 8.0 ], [ 10.5, 8.0 ], [ 10.5, 25.0 ], [ 11.0, 25.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": null }
+]
+}
